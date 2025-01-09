@@ -199,7 +199,8 @@
         ]
     },
     "round_2": {
-      "fights": [{
+      "fights": [
+          {
             "date": "2025-01-21",
             "title_game_red": "Boss Bear™",
             "title_game_blue": "Razor Returns™",
@@ -211,7 +212,8 @@
             "img_game_blue": "https://pre.casinogranmadridonline.es/img/goty/blueTeamGame.webp",
             "url_game_red": "https://...",
             "url_game_blue": "https://..."
-          }]
+          }
+      ]
     },
     "round_3": {
       "fights": []
